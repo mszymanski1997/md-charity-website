@@ -36,7 +36,7 @@ This section explains:
 
 ## 🔗 Live Demo
 You can view the live version of the site here:  
-👉 [https://mizerykordia7312.github.io/maskotki-dzieciom-website/](https://mizerykordia7312.github.io/maskotki-dzieciom-website/)
+👉 [https://mszymanski1997.github.io/maskotki-dzieciom-website/](https://mszymanski1997.github.io/maskotki-dzieciom-website/)
 
 ---
 
